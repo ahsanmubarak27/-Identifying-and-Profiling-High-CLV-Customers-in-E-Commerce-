@@ -29,7 +29,7 @@ Python, Pandas, Matplotlib, Seaborn, Power BI / Tableau
 ![Dashboard Preview](Dashboard_preview.png)
 
 ## Project Files
-- [Notebook]()
+- [Notebook](identifying-and-profiling-high-clv-customers.ipynb)
 - [Presentation](Identifying%20and%20Profiling%20High-CLV%20Customers%20in%20E-Commerce.pptx)
 
 ## Author
