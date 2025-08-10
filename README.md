@@ -26,9 +26,10 @@ Python, Pandas, Matplotlib, Seaborn, Power BI / Tableau
 ## Dashboard
 [**View Interactive Dashboard**](https://lookerstudio.google.com/reporting/425dc128-37db-451b-bc27-96a9714d274e)
 
-![Dashboard Preview](Dashboard Overview.png)
+![Dashboard Preview](Dashboard_preview.png)
 
 ## Project Files
+- [Notebook]()
 - [Presentation](Identifying%20and%20Profiling%20High-CLV%20Customers%20in%20E-Commerce.pptx)
 
 ## Author
